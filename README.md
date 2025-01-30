@@ -62,7 +62,6 @@
 ### **📊 GitHub Stats**  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahnafshahriar-tech&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnafshahriar-tech&layout=compact&theme=radical)  
 
 ---
 
